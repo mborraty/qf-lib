@@ -7,7 +7,7 @@ It is assumed that you have already installed Python 3.6.
 ## Installation choice (Windows)
 There are two ways to install the project for Windows. The easy way is to use the `install.ps1` script,
 which handles all the program requirements. If you don't want to use this script, an alternative method is described
-in the [Installation without script](#Advanced-Installation-without-script) section.
+in the [Installation without script](#Advanced---Installation-without-script) section.
 
 ### Simple - Installation using script
 * Open PowerShell terminal as Administrator
