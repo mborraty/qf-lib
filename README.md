@@ -1,5 +1,5 @@
 # QF-Lib
-This document will guide you through the installation process and will help you configure the library for your personal use.
+This document will guide you through the installation process and will help you configure the library.
 
 ## Prerequisites
 It is assumed that you have already installed Python 3.6.
