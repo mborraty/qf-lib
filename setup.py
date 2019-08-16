@@ -25,7 +25,7 @@ setup(
     description='Quantitative Finance Library',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://gitlab.cern.ch/pfreport/QF-Lib',
+    url='https://quarkfin.github.io/qf-lib/',
     packages=find_packages(),
     provides=[
         'qf_lib'
@@ -54,8 +54,7 @@ setup(
     ],
     keywords='quantitative finance backtester',
     project_urls={
-        'Bug Reports': 'https://gitlab.cern.ch/pfreport/QF-Lib/issues',
-        'Source': 'https://gitlab.cern.ch/pfreport/QF-Lib'
+        'Source': 'https://github.com/quarkfin/qf-lib'
     },
     python_requires='>=3.6.0'
 )
